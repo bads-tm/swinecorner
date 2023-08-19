@@ -23,5 +23,5 @@ logs
 !.env.example
 
 # Dev Wip
-./public/0DEVSPOT
-./public/0bigfiles
+public/0DEVSPOT
+public/0bigfiles
