@@ -1,8 +1,8 @@
 <template>
     <div class="grid-item">
-      <a :href="imageUrl" target="_blank">
+      <NuxtLink :to="imageUrl" target="_blank">
         <img :src="imageUrl" :alt="filename" loading="lazy" />
-      </a>
+      </NuxtLink>
     </div>
   </template>
   

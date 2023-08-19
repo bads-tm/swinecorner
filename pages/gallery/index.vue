@@ -6,11 +6,11 @@
     
     <h2>Screenshots and Videos</h2>
     <p><NuxtLink to="/gallery/trail2d">Trail 2D screenshots</NuxtLink> <NuxtLink to="/gallery/trail">Trail 3D screenshots</NuxtLink> <NuxtLink to="/gallery/swine">S.W.I.N.E. Beta screenshots</NuxtLink></p>
-    <p><a href="https://www.youtube.com/watch?v=NNEssjysmhs">Beta gameplay (no audio)</a> <a href="https://www.youtube.com/watch?v=xzTK73BnlVk">Beta gameplay</a></p>
+    <p><NuxtLink to="https://www.youtube.com/watch?v=NNEssjysmhs">Beta gameplay (no audio)</NuxtLink> <NuxtLink to="https://www.youtube.com/watch?v=xzTK73BnlVk">Beta gameplay</NuxtLink></p>
 
     <h2>Magazine scans</h2>
     <h3>Trail</h3>
-    <p>Trail AVIF minified <a href="/scans/1997/trail1.avif">Page 1</a> <a href="/scans/1997/trail2.avif">Page 2</a></p>
+    <p>Trail AVIF minified <NuxtLink to="/scans/1997/trail1.avif">Page 1</NuxtLink> <a href="/scans/1997/trail2.avif">Page 2</a></p>
     <p>Trail RAW PNG source <a href="/scans/1997/trail1.png">Page 1</a> <a href="/scans/1997/trail2.png">Page 2</a></p>
   
     <hr>

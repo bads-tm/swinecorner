@@ -22,18 +22,6 @@
 
     
     <script>
-    //const fs = require('fs');
-
-export async function fetchFilesFromDirectory(directory) {
-  try {
-    const fileList = fs.readdirSync(directory);
-    return fileList;
-  } catch (error) {
-    console.log('Error fetching files: ', error);
-    return [];
-  }
-}
-
     import ImageGridItem from '~/components/ImageGridItem.vue';
     
     export default {
@@ -51,12 +39,6 @@ export async function fetchFilesFromDirectory(directory) {
         { name: 'trailalpha.png', url: '/game/trail2d/trailalpha.png' },
       ],
         };
-      },
-      async asyncData({ params }) {
-        // Fetch file information and URLs from your directory
-        const files = await fetchFilesFromDirectory("./public/game/swinebeta");
-    
-        return { files };
       },
     };
     </script>
