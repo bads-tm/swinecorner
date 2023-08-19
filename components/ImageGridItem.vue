@@ -1,8 +1,8 @@
 <template>
     <div class="grid-item">
-      <NuxtLink :to="`${baseUrl}/${imageUrl}`" target="_blank">
-      <img :src="imageUrl" :alt="filename" loading="lazy" />
-    </NuxtLink>
+      <NuxtLink :to="imageUrl" target="_blank">
+        <img :src="imageUrl" :alt="filename" loading="lazy" />
+      </NuxtLink>
     </div>
   </template>
   
@@ -11,7 +11,6 @@
     props: {
       filename: String,
       imageUrl: String,
-      baseUrl: String,
     },
   };
   </script>
