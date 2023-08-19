@@ -1,0 +1,165 @@
+<template>
+<title>Leftout - S.W.I.N.E. Mods and more</title>
+
+    <div class="main">
+<!--<p align="center"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/fejlec/amikimaradt.jpg" alt="S.W.I.N.E. - ami kimaradt"></p>
+-->
+<h1 align="center" style="color: cyan; background: -webkit-linear-gradient(-90deg, #99c9fa, #035597 80%);
+  background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;">S.W.I.N.E. - ami kimaradt</h1>
+
+<p>A S.W.I.N.E. s<!--hede.spaceweb.hu - 2006-2017-->ok be nem fejezett, kivett, vagy épp meg sem valósított dolgot tartalmaz. Arra gondoltam, hogy összegyűjtök néhányat ezek közül, ezzel is megmutatva, hogy milyen lehetett az a S.W.I.N.E., amit a készítők elképzeltek, és amit a kiadó sürgetése nélkül megvalósíthattak volna.</p>
+
+<p>Kezdjük mondjuk a játék nevével. Eredetileg ez sem az volt, ami most, hanem Trail (gondolom a trail.ini sokaknak ismerős, ha máshonnan nem, a hibaüzenetből - az exe szokta hiányolni, ha rossz helyen van). Csak évekkel később, a kiadó hatására kapta meg a játék a <b>S</b>trategic <b>W</b>arfare <b>i</b>n a <b>N</b>ifty <b>E</b>nvironment nevet.</p>
+
+<p>Egy másik dolog, ami csak a korai tervekben szerepelt, aztán nem lett belőle semmi a harmadik faj, a patkányok. Sokat nem tudok írni róluk, csak amit a neten találtam: <i>„Ettől a pillanattól kezdve beindult a Trail-projekt. RTS az űrben, egy másik világban, nyulak, disznók, patkányok háborúja bolygók között, illetve bolygókon. A nyulak és a disznók álltak egymással szemben, a patkányok legfeljebb zsoldért szálltak volna be a csatába, valójában a fegyverkereskedelem kalmárai lettek volna.”</i></p>
+
+<p>Az idézetből látszik, hogy eredetileg eléggé másnak tervezték a játékot, mint amilyen végülis lett belőle. A kezdeti tervekkel ellentétben „leszálltak a földre”, ami azt hiszem nem feltétlenül baj, hiszen ha az űrben játszódott volna a játék, akkor teljesen más jellege lett volna, gondolom a szárazföldi egységek nem igazán jelentek volna meg benne, míg az elkészült változat szinte csak róluk szól.</p>
+
+<p><i>„A tervek szerint minden fajhoz más zenei stílus tartozott volna. A nyulaknak gépzene, a disznóknak metál, rock, a patkányoknak rap, hip-hop készült.”</i></p>
+
+<p>A zenei stílusok különbözősége sem igazán valósult meg, a Másfél nagyon hasonló számokat írt a két fajnak. A disznók rockosabb vonala (gondolok itt elsősorban az Error not enough money-ra illetve a Zetormalacra) az, ami emlékeztethet erre az elképzelésre. A nyulaké ugyan kevésbé „kemény”, de azért gépzenének mégsem nevezhető, ráadásul a disznóknak sem csak rockos zenéi vannak.</p>
+
+<p>Ha már a zenéknél tartunk: a S.W.I.N.E. soundtrack 9 számot tartalmaz, ebből csak nyolcat használtak fel a játékban. A kimaradó Zetormalac a küldetéslemezen szólalt volna meg, amiből sajnos nem lett semmi. Erről nem tudok sokat, talán itt új történet (vagy a régi folytatása), új pályák kaptak volna helyet. Talán az új pályák mellett a kimaradt légi és vízi egységek is helyet előkerültek volna, illetve elképzelhető, hogy új földi egységeket is készítettek volna. Ezek persze nem tények, csak ötletelés a tartalommal kapcsolatban…</p>
+
+<p>Sokan hiányolják a pályaszerkesztőt, aminek utódja, fejlesztett változata tulajdonképpen a Panzers 2-vel együtt elérhetővé vált. A S.W.I.N.E.-hoz ilyen nem került kiadásra, de készült hozzá, a Stormregion-nél nem hexeditorral készültek a pályák. Ezt a pályaszerkesztőt a küldetéslemezzel együtt tervezték megjelentetni, de a publikálás végül is azért nem történt meg, mert nem volt elég felhasználóbarát.</p>
+
+<p>Egységekből sem annyi lett volna, mint amennyit végül megcsináltak: előbb említettem már légi és vízi egységeket, ugyanis a készítők eredetileg velük is színesítették volna az egységek palettáját. A vízi egységekből csak a páncélautó speciális képessége valósult meg. A légi egységekből a bombázó és helikopter, valamint a légvédelmi bunker került be a végleges változatba, azonban ezen kívül számos további utalás is van rájuk a játék fájljaiban. Ilyen például a sok kimaradt felszerelés, amiknek csak az ikonjai készültek el. Ezek szinte mind légvédelemmel kapcsolatosak. Említhető még a tankvadász speciális képessége, ami szintén ehhez kapcsolódik. Ez úgy néz ki, hogy (szinte) teljesen elkészült, és végül mégis kivették a játékból. Megvan az ikonja, a kis ablakban felbukkanó animációja, sőt még a hangokat is felvették hozzá. Nem tudom, hogy miért került ki, talán több légi egység esetén több értelme lett volna, mindenesetre biztosan érdekes lett volna, ha bekerül. (néhány hang: <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/095.mp3">95-Lekapom az összes repülőt!</a>, <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/096.mp3">96-Itt egy szúnyog sem fog átrepülni!</a>, <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/097.mp3">97-Normál üzemmódra visszaállok.</a>)
+<br><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/szunyogspec.jpg" alt=""> A szúnyog speciális képességének ikonjai. Első a légvédelmi, második a tankvadász módhoz (ez az, amelyik bekerült a játékba) tartozik.
+<br><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/vezetok/ny-tankvadasz-spec.png" alt=""> A speciális képesség bekapcsolásakor megjelenő animáció egy képkockája. Ez a fehér fény amúgy a repülőknél is megjelenik.
+<br><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/upgrades_hq_03.gif" alt=""><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/upgrades_hq_07.gif" alt=""><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/upgrades_hq_09.gif" alt=""><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/upgrades_hq_10.gif" alt=""><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/upgrades_hq_11.gif" alt=""> A kimaradt felszerelések. Elég sok ábrázol radart, rakétát, ami légvédelemre utalhat. Sajnos csak az ikonok vannak meg, így csak találgatni lehet, hogy valójában mit takart volna a hozzájuk tartozó képesség.</p>
+
+<p>A játék pak fájljának boncolgatásakor is találtam érdekes dolgokat, ezek következnek most. Nemcsak a szúnyognak vannak nem használt hangjai, hanem más egységeknek is. Ilyenek például az atomok vezetői. Az atom magától nem lő, ezért az ehhez kapcsolódó hangjai nem szólalnak meg, viszont fel vannak véve, ezek az 1.7-es verzió „új egységeinél” is előkerülnek.</p>
+
+<p>Olyan hangok is vannak, amiket szintén felvettek, mégis kimaradtak, pedig több egységnél is megtalálhatóak (pl. <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/038.mp3">38-Rendicsek!</a>, <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/126.mp3">126-Mi is erre gondoltunk.</a>, <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/607.mp3">607</a>).</p>
+
+<p>Van egy fájl, amiben a beszólások szövege le van írva, itt is lehet néhány érdekességet találni. Néhánynak a szövege megvan, de mp3 formátumban nem került be a játékba (pl. 536-Hmm milyen fincsi illat, mint anyám főztje, hahaha!, 397-Je, alvázmosás!).</p>
+<a id="szoveg-nyit" class="koverkek">A meglévő szövegű, de hiányzó hangú beszólások teljes listája ide kattintva elérhető.</a>
+<div id="szoveg" style="display: yes;background-color: #332121;">
+<p>
+392	Gyerünk keressük meg azokat a rakétákat!
+<br>393	Megtaláltuk az első rakétakilövőt!
+<br>394	Itt is van egy rakéta kilövő!
+<br>395	Jól bírja a gyűrődést ez a régi híd!
+<br>396	Elértük a Lapos folyót.
+<br>397	Ye, alvázmosás!
+<br>398	Ez tényleg alvázmosás!
+<br>399	Ezek az átkozott disznók egy hatalmas ágyút telepítettek a dombra!
+</p>
+
+<p>404	</p>
+
+<p>
+433	Siessünk keressük meg az elnök gépét!
+<br>434	Itt vagyunk az ősi templomnál.
+<br>435	Alig lehet haladni ettől a rengeteg fától!
+<br>436	Milyen fülledt a levegő?!
+<br>437	Elég furcsa egy tisztás.
+<br>438	Megtaláltuk a repülőteret!
+<br>439	Itt az elnöki gép!
+<br>440	Úgy gondolom az egész nyúl nép nevében beszélhetek amikor megköszönöm Önöknek azt, amit a Hazáért tesznek ezekben a nehéz, háborús időkben. Kevesen vannak akik kiállván az igazság mellett azt tettel is bizonyítják.Még egyszer köszönjük, és ne feledjék a  Haza Önökkel. 
+<br>441	Kezdődjék a vadkanvadászat!
+<br>442	Micsoda bűz?!
+<br>443	Csípi a szemem ez a bűz!
+<br>444	Micsoda orrfacsaró egy illat?!
+<br>445	Ettől a szagtól hányingerem van.
+<br>446	Elég elhagyatottnak látszik.
+<br>447	Nagyon csapda íze van!?
+<br>448	Ez csapda!!!
+<br>449	huh ezt megúsztuk!
+</p>
+
+<p>
+461	Gyerünk kapjuk el a disznókat!
+<br>462	Remélem nem szakad be alattunk?!
+<br>463	Elég síkos a talaj!
+<br>464	Itt vagyunk a radarnál!!
+<br>465	Elértük az erőművet.
+<br>466	Most már biztos nem kap energiát a radarállomás.
+</p>
+
+<p>
+517	Na, hol vannak azok a  répazabálók?
+<br>518	Segítség, megtámadtak!!
+<br>519	Meg kell akadályozni hogy a nyulak megsemmisítsék a szállítmányt!
+<br>520	Nem tudjuk már sokáig tartani magunkat!
+<br>521	Na végre hogy megérkeztünk!
+</p>
+
+<p>
+535	Gyerünk kapjuk el ezeket a pofátlan szőrcsimbókokat!
+<br>536	Hmm milyen fincsi illat, mint anyám főztje, hahaha!
+<br>537	Megtaláltuk a raktárt!
+<br>538	Hmm, ez a raktár  tök üres volt ?!
+<br>539	Cool, tűzijáték!
+</p>
+
+<p>
+546	Alig lehet haladni ettől a rengeteg fától!
+<br>547	Útálom a zöld színt!
+<br>548	Milyen fülledt a levegő?!
+<br>549	Elértük a dombot.
+<br>550	Szerezzük meg a dombot!
+</p>
+
+<p>569	 Szavak ?</p>
+
+<p>
+573	Gyerünk túrjuk fel az erdőt!
+<br>574	Elértük a Lapos folyót.
+<br>575	Elég egy ócska híd ez.
+<br>576	Átkelünk a hídon!
+<br>577	Elértük a gázlót.
+</p>
+</div>
+
+<p>Nemcsak vízi és légi egységek, hanem egy „hős” is kimaradt, a nyúl elnök. A történetből kikerült, így a játékon belül nem jelenik meg, és a hangjait sem vették fel, viszont a menüben oldalt néha felbukkan, és a reportanim-ját is megcsinálták (szóval beültethető vezetőnek valamilyen egységbe, úgy mint a többi hős). Ezen kívül hozzá kapcsolódó beszólások szövegét is találtam:
+<br>439-Itt az elnöki gép!
+<br>440-Úgy gondolom, az egész nyúl nép nevében beszélhetek, amikor megköszönöm Önöknek azt, amit a Hazáért tesznek ezekben a nehéz, háborús időkben. Kevesen vannak, akik kiállván az igazság mellett azt tettel is bizonyítják. Még egyszer köszönjük, és ne feledjék, a Haza Önökkel.
+<br><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/elnok.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_elnok.jpg" border="0" alt=""></a>
+<br><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/elnok2.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_elnok2.jpg" border="0" alt=""></a></p>
+
+<p>Találtam egyéb kimaradt dolgokat is: az egységekből szétlövés után általában felszáll a vezető szelleme, de ez nem minden egységgel van így. A rakétások például csak felrobbannak, pedig a szellem ott is meglenne. Nem használt víztextúrákat is találtam (pl. mocsár, és néhány furcsa textúra - ezek nem hiszem, hogy víznek készültek, de végül is annak is berakhatók). Kimaradt objektumok is vannak, mint például úszómedence (ehhez tartozik például medencevíz is).</p>
+
+<p>Néhány dolog ugyan bekerült a játékba, de megváltozott. Például az átvezető videókban látható disznó teherautó, amiről több kép is készült. Talán ebből lett a vontató/utánfutók.
+<br><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/teherauto1.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_teherauto1.jpg" border="0" alt=""></a><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/teherauto2.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_teherauto2.jpg" border="0" alt=""></a>
+<br><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/teherauto3.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_teherauto3.jpg" border="0" alt=""></a><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/teherauto4.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_teherauto4.jpg" border="0" alt=""></a>
+<br>Van belőle Stormregionös változat is (mint a többi egységről):
+<br><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/teherauto_sr.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_teherauto_sr.jpg" border="0" alt=""></a></p>
+
+<p>A kézikönyvet is érdemes megnézni, mert sok utalást tartalmaz a kimaradt, megváltozott dolgokra. Például a bombázóknál leírja, hogy ügyeljünk a légvédelemre (bár a légvédelmi bunker bekerült a játékba), a tankvadásznál pedig az eredeti speciális képességet említi. Sok egység beceneve máshogy szerepel benne (szúnyog helyett tüske, KNF, BFG helyett MF, acélpöröly helyett pöröly, acéltüske helyett acélfog, disznószörny, és doboz angolul - pig monster, pigbox). A helikopterek és bombázók becenevei is előkerülnek itt: hosszú kéz, monszun, acélüllő, fémlepény. Érdekes, hogy a nyulaknál nem csak simán szállító, hanem teherszállító a helikopter, és a bombázó neve angol maradt. Egyébként az aknának is van beceneve: surprise azaz meglepetés. Ezeket a játékban is meg lehet nézni, ha kijelölhetővé tesszük az összes egységet.
+<br><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/d_heli.png" alt=""><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/d_bomb.png" alt="">
+<br><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/ny_heli.png" alt=""><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/ny_bomb.png" alt="">
+<br><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/akna.png" alt=""></p>
+
+<p>Végül következzen néhány érdekes kép:</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen023.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen023.jpg" border="0" alt=""></a>
+<br>Piros-kék disznó tankok. Nem néz ki rosszul ez a színösszeállítás, kár hogy nem lehet kiválasztani. Persze az is lehet, hogy a piros részeknél csupán a textúra hiányzik, hiszen eléggé egyszínűek az egységek többi részeihez képest. Az egységeken kívül a pálya is érdekes, nem tudom, hogy ez melyik akar lenni. Ezen kívül az is furcsa, hogy egy löveg van kijelölve, de ennek ellenére nincs megjelenítve a tapasztalati pontjainak száma.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen005.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen005.jpg" border="0" alt=""></a>
+<br>A már korábban említett medence és egy félkész pálya. Az épületekből ítélve egy nyúl város lehet, de Rabbipolis ennél a pályánál jóval nagyobb, Répafalván pedig nem ilyen házak vannak.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen014.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen014.jpg" border="0" alt=""></a>
+<br>A cross készítése közben csinálhatták ezt a képet. Érdekes, hogy a víz még hiányzik a pályáról. Az, hogy ez a minitérképen is megjelenik azt mutatja, hogy az generálódott a pályához, vagyis hogy tényleg volt pályaszerkesztő a játékhoz.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen008.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen008.jpg" border="0" alt=""></a>
+<br>Gondolom ez Répafalva akar lenni, de az előző képhez hasonlóan még nem készült el teljesen. A víz itt is hiányzik, illetve a térképen végigfutó fekete vonal gondolom az út lehet. Érdemes megfigyelni, hogy a térkép jobb felső részén „lyukas” a pálya, az a kékség az a háttér, amit néhány pálya szélén is lehet látni (például a dune-on baloldalt), ahol már nincs domborzat.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen006.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen006.jpg" border="0" alt=""></a>
+<br>Stonehenge a bányatelepeken (ez amúgy nem került ki a játékból) és érdekes szögű kamera.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen013.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen013.jpg" border="0" alt=""></a>
+<br>Szintén érdekes szögben áll a kamera, normális esetben ilyen nézet nem lehetséges.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen022.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen022.jpg" border="0" alt=""></a>
+<br>Ha az előbbi képeken nem is, ezen tényleg látszik hogy ki van akasztva a kamera, az egységekre nem lehet normális körülmények között ennyire ráközelíteni.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/loveg_sr.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_loveg_sr.jpg" border="0" alt=""></a>
+<br>Néhány egységnek nem csak az a fajta bemutató képe van, ami a galériában is megtalálható. Ilyen a löveg is, érdekes, hogy ez a kopottsága alapján veteránnak tűnik, de nincs rajta jelzés. A hiányzó kereke is érdekes, ilyet más egységnél nem láttam még, a fejlődés máshol csak a kopások és rozsda megjelenését hordozta magával.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/tankvadasz_sr.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_tankvadasz_sr.jpg" border="0" alt=""></a>
+<br>A tankvadásznak is van hasonló képe. Itt a három fejlettségi szint más, mint a játékban (nincs elit, helyette normál, és a veterán a legmagasabb). Jelzések szintén nincsenek, csak egyre kevesebb festék, viszont itt nem hiányzik semmi az egységről.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/swine_screen019.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_swine_screen019.jpg" border="0" alt=""></a>
+<br>Nem tudom, hogy ez milyen verzió, de teljesen máshogy néz ki, mint a megszokott, tulajdonképpen egyszerűbb lenne azt felsorolni, hogy mi egyezik meg az eddig ismert verzióval. Teljesen más a grafika, máshogy néznek ki az egységek, az objektumok, a lánctalpak nyomai, a lövedék füstje, a hud, a felbukkanó ablakokban a vezetők animációi… Ráadásul feliratozva van a disznó szövege! A távoli egységek ködbe vesznek, és a kamera is mintha kicsit más szögben lenne, mint ami beállítható az ismert verzióban.</p>
+<p><a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/menu.jpg" target="_blank"><img src="http://web.archive.org/web/20170901202449im_/http://hede.spaceweb.hu/php-files/images/amikimaradt/th_menu.jpg" border="0" alt=""></a>
+<br>A sárga és kék után ez a zöldes menü elég furcsa, de nem rossz. Talán az amerikai verzióhoz tartozik (annak a borítója is más volt). Még egy apróság feltűnt a képen: a szerelőnek nem a megszokott ikonja van a jobboldali panelen.</p>
+
+    </div>
+    
+<rightdefault/>
+        
+      </template>
+      
