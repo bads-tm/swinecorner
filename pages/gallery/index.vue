@@ -10,8 +10,8 @@
 
     <h2>Magazine scans</h2>
     <h3>Trail</h3>
-    <p>Trail AVIF minified <NuxtLink target="_blank" to="/scans/1997/trail1.avif">Page 1</NuxtLink> <NuxtLink target="_blank" to="/scans/1997/trail2.avif">Page 2</NuxtLink></p>
-    <p>Trail RAW PNG source <NuxtLink target="_blank" to="/scans/1997/trail1.png">Page 1</NuxtLink> <NuxtLink target="_blank" to="/scans/1997/trail2.png">Page 2</NuxtLink></p>
+    <p>Trail AVIF minified <NuxtLink to="/scans/1997/trail1.avif" target="_blank" >Page 1</NuxtLink> <NuxtLink target="_blank" to="/scans/1997/trail2.avif">Page 2</NuxtLink></p>
+    <p>Trail RAW PNG source <NuxtLink to="/scans/1997/trail1.png" target="_blank">Page 1</NuxtLink> <NuxtLink target="_blank" to="/scans/1997/trail2.png">Page 2</NuxtLink></p>
   
     <hr>
     <h3>S.W.I.N.E.</h3>
