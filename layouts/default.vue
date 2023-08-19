@@ -42,4 +42,12 @@ const currentYear = ref(new Date().getFullYear());
     ::-webkit-scrollbar-track{background-color:transparent;border-color:transparent;}
     body::-webkit-scrollbar-thumb{background-color:rgba(255,255,255,.4);border-color:transparent;}
     
+/*ads*/
+.billboard-mob {  display: none;}
+
+/* Media query for screens with width less than 707px */
+@media (max-width: 707px) {
+  .billboard {    display: none; /* Hide .billboard */  }
+  .billboard-mob {    display: block; width: 100%; /* Show .billboard-mob */  }
+}
     </style>

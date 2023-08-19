@@ -1,4 +1,8 @@
 <template>
+
+<a href="https://www.allkeyshop.com/blog/buy-s-w-i-n-e-hd-remaster-cd-key-compare-prices/"><img class="billboard-mob" src="/website/swinehdb.png"></a>
+<a href="https://bads-tm.itch.io/swine-classic-hd"><img class="billboard-mob" src="/website/swinechd.png"></a>
+
 <div class="billboard">
 
 <picture>
@@ -13,7 +17,7 @@
 <img src="/website/swinechd.png" usemap="#classic2k1">
 <map name="classic2k1">
   <area alt="Free download" title="Free download" href="https://bads-tm.itch.io/swine-classic-hd" coords="447,169,674,218" shape="rect">
-  <area alt="" title="AAAA" href="" coords="278,102,19" shape="circle">
+  <area alt="" title="*pig noises, wrong nose!*" coords="278,102,19" shape="circle">
 </map>
 </picture>
 

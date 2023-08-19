@@ -1,7 +1,7 @@
 <template>
     <div class="grid-item">
-      <a :href="'/game/trail2d/' + filename" target="_blank">
-        <img :src="'/game/trail2d/' + filename" :alt="filename" />
+      <a :href="imageUrl" target="_blank">
+        <img :src="imageUrl" :alt="filename" loading="lazy" />
       </a>
     </div>
   </template>

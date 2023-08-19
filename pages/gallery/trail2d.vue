@@ -3,6 +3,8 @@
     
     <div class="main">
         <h1>Trail 2D Screenshot Gallery</h1>
+        <p><NuxtLink to="/gallery/trail">Trail 3D screenshots</NuxtLink> <NuxtLink to="/gallery/swine">S.W.I.N.E. Beta screenshots</NuxtLink></p>
+
         
         <div class="grid-container">
         <ImageGridItem
@@ -41,12 +43,12 @@ export async function fetchFilesFromDirectory(directory) {
       data() {
         return {
           files: [
-        { name: 'tr2dgrs.png', url: '/tr2dgrs.png' },
-        { name: 'tr2dhq.png', url: '/tr2dhq.png' },
-        { name: 'tr2dwinspawn.png', url: '/tr2dwinspawn.png' },
-        { name: 'tr2dwintr.png', url: '/tr2dwintr.png' },
-        { name: 'tr2dwintr2.png', url: '/tr2dwintr2.png' },
-        { name: 'trailalpha.png', url: '/trailalpha.png' },
+        { name: 'tr2dgrs.png', url: '/game/trail2d/tr2dgrs.png' },
+        { name: 'tr2dhq.png', url: '/game/trail2d/tr2dhq.png' },
+        { name: 'tr2dwinspawn.png', url: '/game/trail2d/tr2dwinspawn.png' },
+        { name: 'tr2dwintr.png', url: '/game/trail2d/tr2dwintr.png' },
+        { name: 'tr2dwintr2.png', url: '/game/trail2d/tr2dwintr2.png' },
+        { name: 'trailalpha.png', url: '/game/trail2d/trailalpha.png' },
       ],
         };
       },
