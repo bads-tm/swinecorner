@@ -64,5 +64,27 @@
         "image": "/website/uj.jpg",
         "dlurl": "https://github.com/brunodev85/Winlator/releases",
         "readmore": "https://github.com/brunodev85/winlator/blob/main/README.md"
+      },
+      {
+        "title": "RESEARCH: Cheat engine",
+        "desc": "Memory editor, camera and money unlimiter, and other things...",
+        "author": "Dark Byte",
+        "image": "/website/uj.jpg",
+        "dlurl": "http://www.cheatengine.org/"
+      },
+      {
+        "title": "RESEARCH: Ninja Ripper",
+        "desc": "RIP 3D Modles from games when native model import script for game model file is unavailable..",
+        "author": "-",
+        "image": "/website/uj.jpg",
+        "dlurl": "https://cgig.ru/ninjaripper/",
+        "readmore": "http://cgig.ru/en/2012/10/ho-to-use-ninja-ripper/"
+      },
+      {
+        "title": "RESEARCH: 3D Ripper DX",
+        "desc": "Exports your in-game view, instead of every model as seperate",
+        "author": "-",
+        "image": "/website/uj.jpg",
+        "dlurl": "http://www.deep-shadows.com/hax/3DRipperDX.htm"
       }
 ]
