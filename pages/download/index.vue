@@ -2,7 +2,7 @@
 <title>Downloads - S.W.I.N.E. Mods and more</title>
 <div class="main">
 
-  <ul class="links-list" v-for="item in jsonData" :key="item.title">
+  <ul class="links-list" v-for="item in files" :key="item.title">
             <li>
               <NuxtLink :to="item.link">{{ item.title }}</NuxtLink>
               </li>
@@ -20,25 +20,12 @@
   </template>
   
   <script>
+  import files from '~/assets/data/downloadindex.json'
+
       export default {
-        data() {
-          return {
-            jsonData: [
-            {
-    "title": "Compatible with 2001 Version",
-    "link": "/download/classic"
-  },
-  {
-    "title": "Compatible with HD Remaster",
-    "link": "/download/hdrem"
-  },
-  {
-    "title": "Other or universal downloads, tools",
-    "link": "http://digi.atw.hu"
-  }
-]
-          };
-        }
+      data() {
+          return { files }
+      },
       };
       </script>
       

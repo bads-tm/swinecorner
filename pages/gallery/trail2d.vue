@@ -23,22 +23,14 @@
     
     <script>
     import ImageGridItem from '~/components/ImageGridItem.vue';
-    
+    import files from '~/assets/data/galtrail2d.json'
+
     export default {
       components: {
         ImageGridItem,
       },
       data() {
-        return {
-          files: [
-        { name: 'tr2dgrs.png', url: '/game/trail2d/tr2dgrs.png' },
-        { name: 'tr2dhq.png', url: '/game/trail2d/tr2dhq.png' },
-        { name: 'tr2dwinspawn.png', url: '/game/trail2d/tr2dwinspawn.png' },
-        { name: 'tr2dwintr.png', url: '/game/trail2d/tr2dwintr.png' },
-        { name: 'tr2dwintr2.png', url: '/game/trail2d/tr2dwintr2.png' },
-        { name: 'trailalpha.png', url: '/game/trail2d/trailalpha.png' },
-      ],
-        };
+          return { files }
       },
     };
     </script>

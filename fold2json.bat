@@ -1,12 +1,16 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "pathto=game/trail3d"
+set "pathto=characters"
+REM set "pathto=game/trail3d"
+REM set "pathto=game/trail2d"
 REM set "pathto=game/swinebeta"
 set "folderPath=.\public\%pathto%"
 set "jsonOutput=output.json"
 set "jsonContent=["
 set "firstItem=true"
+
+echo Folder: %pathto%
 
 for %%i in ("%folderPath%\*.*") do (
     set "filePath=%%~i"
@@ -16,7 +20,7 @@ for %%i in ("%folderPath%\*.*") do (
         if !firstItem! == false set "jsonContent=!jsonContent!,"
         set "jsonContent=!jsonContent!{"
         set "jsonContent=!jsonContent!"name":"!fileName!","
-        set "jsonContent=!jsonContent!"url":"/%pathto%/!relativePath!","
+        set "jsonContent=!jsonContent!"url":"/%pathto%/!relativePath!""
         set "jsonContent=!jsonContent!}"
         set "firstItem=false"
 )

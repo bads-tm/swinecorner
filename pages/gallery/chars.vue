@@ -1,9 +1,8 @@
 <template>
-    <title>S.W.I.N.E. Beta Screenshot Gallery - S.W.I.N.E. Mods and more</title>
+    <title>Characters Gallery - S.W.I.N.E. Mods and more</title>
     
     <div class="main">
-        <h1>S.W.I.N.E. Beta Screenshot Gallery</h1>
-        <p><NuxtLink to="/gallery/trail2d">Trail 2D screenshots</NuxtLink> <NuxtLink to="/gallery/trail">Trail 3D screenshots</NuxtLink></p>
+        <h1>Characters Gallery</h1>
         
         <div class="grid-container">
         <ImageGridItem
@@ -22,8 +21,8 @@
     
     <script>
     import ImageGridItem from '~/components/ImageGridItem.vue';
-    import files from '~/assets/data/galswine.json'
-    
+    import files from '~/assets/data/galchars.json'
+
     export default {
       components: {
         ImageGridItem,

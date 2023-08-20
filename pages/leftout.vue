@@ -7,7 +7,7 @@
 <h1 align="center" style="color: cyan; background: -webkit-linear-gradient(-90deg, #99c9fa, #035597 80%);
   background-clip: border-box;
 -webkit-background-clip: text;
--webkit-text-fill-color: transparent;">S.W.I.N.E. - ami kimaradt</h1>
+-webkit-text-fill-color: transparent;">S.W.I.N.E. - ami kimaradt</h1> <small>&copy; HEDE</small>
 
 <p>A S.W.I.N.E. s<!--hede.spaceweb.hu - 2006-2017-->ok be nem fejezett, kivett, vagy épp meg sem valósított dolgot tartalmaz. Arra gondoltam, hogy összegyűjtök néhányat ezek közül, ezzel is megmutatva, hogy milyen lehetett az a S.W.I.N.E., amit a készítők elképzeltek, és amit a kiadó sürgetése nélkül megvalósíthattak volna.</p>
 
