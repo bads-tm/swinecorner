@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "pathto=characters"
+set "pathto=hede/album_37"
 REM set "pathto=game/trail3d"
 REM set "pathto=game/trail2d"
 REM set "pathto=game/swinebeta"
