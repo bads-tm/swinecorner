@@ -31,6 +31,7 @@
   <div class="right">
       <h2>Warning: Third party content</h2>
       <p>Watch out for potential viruses, trojans.</p>
+      <P>This page as link, "download/other" Page will later split into mods and other goodies..</P>
   </div>
   
   

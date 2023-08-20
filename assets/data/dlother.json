@@ -3,8 +3,15 @@
         "title": "Big multiplayer map pack",
         "desc": "",
         "author": "Everyone",
-        "image": "/website/112419-14.jpg",
+        "image": "/miscimg/(4)nukebeach.jpg",
         "dlurl": "http://www.mediafire.com/download/l343lz46m4bbe44/Big-Multiplayer-Map-Pack.exe"
+      },
+      {
+        "title": "UFO Mod",
+        "desc": "Installation: add it to units.ini, apply to helicopter or whatever else (like bomber)...",
+        "author": "bads.tm",
+        "image": "/miscimg/ufomod.png",
+        "dlurl": "https://github.com/stormregion/swine-ufo"
       },
       {
         "title": "S.W.I.N.E. Editing, Hacking and Map Creating Guide",
@@ -18,7 +25,44 @@
         "title": "Various community made tools, guides, blender 4d import...",
         "desc": "",
         "author": "Everyone, MDave",
-        "image": "/website/112419-14.jpg",
+        "image": "/website/regebbi.jpg",
         "dlurl": "https://github.com/stormregion/community_tools"
+      },
+      {
+        "title": "S.W.I.N.E. Fonts",
+        "desc": "ITC Honda for Pigs, Indigo joker for Rabbits",
+        "author": "Linotype, Phillip Cavette",
+        "image": "https://www.dafont.com/img/preview/i/n/indigo_joker0.png",
+        "dlurl": "https://www.linotype.com/91518/itc-honda-family.html",
+        "dlurl2": "http://dl.dafont.com/dl/?f=indigo_joker"
+      },
+      {
+        "title": "Screen recorder: OBS",
+        "desc": "If Windows built in WIN+G not working...",
+        "author": "-",
+        "image": "/website/regi.jpg",
+        "dlurl": "https://obsproject.com/"
+      },
+      {
+        "title": "Hex editor: HXD (free)",
+        "desc": "There's also Hex Workshop (trial, not free), alternatively checkout... alternativeto website ;)",
+        "author": "-",
+        "image": "/website/regi.jpg",
+        "dlurl": "http://www.softpedia.com/get/PORTABLE-SOFTWARE/Programming/Portable-HxD.shtml"
+      },
+      {
+        "title": "OS: Linux",
+        "desc": "Tired of Windows, or just want to give lands of freedom a try?",
+        "author": "-",
+        "image": "/website/uj.jpg",
+        "dlurl": "https://distrochooser.de/"
+      },
+      {
+        "title": "MISC: S.W.I.N.E. on Android!",
+        "desc": "Play S.W.I.N.E. On a phone/tablet? Yes you can!",
+        "author": "Various (box86, box64, wine...)",
+        "image": "/website/uj.jpg",
+        "dlurl": "https://github.com/brunodev85/Winlator/releases",
+        "readmore": "https://github.com/brunodev85/winlator/blob/main/README.md"
       }
 ]

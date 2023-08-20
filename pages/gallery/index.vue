@@ -3,7 +3,8 @@
 
 <div class="main">
     <h1>List of Files</h1>
-    
+    <p><NuxtLink to="/gallery/chars">Characters</NuxtLink> <NuxtLink to="/gallery/tanks">Tanks (icons)</NuxtLink> <NuxtLink to="/gallery/marketing">Marketing & Wallpapers</NuxtLink> <NuxtLink to="/gallery/hede">Hede tanks</NuxtLink></p>
+
     <h2>Screenshots and Videos</h2>
     <p><NuxtLink to="/gallery/trail2d">Trail 2D screenshots</NuxtLink> <NuxtLink to="/gallery/trail">Trail 3D screenshots</NuxtLink> <NuxtLink to="/gallery/swine">S.W.I.N.E. Beta screenshots</NuxtLink></p>
     <p><NuxtLink to="https://www.youtube.com/watch?v=NNEssjysmhs">Beta gameplay (no audio)</NuxtLink> <NuxtLink to="https://www.youtube.com/watch?v=xzTK73BnlVk">Beta gameplay</NuxtLink></p>

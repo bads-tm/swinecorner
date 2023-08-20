@@ -28,7 +28,7 @@ const currentYear = ref(new Date().getFullYear());
     *{box-sizing:border-box;}
     .menu{float:left;width:20%;text-align:center;}
     .menu a{background-color:#111;padding:8px;margin-top:7px;display:block;width:100%;color:#fff;}
-    a:visited {color: rgb(189, 179, 180);}
+    a:visited, a {color: rgb(189, 179, 180);}
     .main{float:left;width:60%;padding:0 20px;}
     .right{background-color:#111;float:left;width:20%;padding:15px;margin-top:7px;text-align:center;}
     @media only screen and (max-width:620px){
