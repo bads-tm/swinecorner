@@ -21,7 +21,7 @@
     <hr>
     <h2>Artbook</h2>
     <h3>HD Remaster</h3>
-    <p>S.W.I.N.E. HD Remaster artbook <NuxtLink target="_blank" to="/scans/2019/artbook.htm">(BOOKVID format - 5MB!)</NuxtLink></p>
+    <p>S.W.I.N.E. HD Remaster artbook <NuxtLink target="_blank" to="/gallery/artbook">(BOOKVID format - 5MB!)</NuxtLink></p>
 
     </p>
   
