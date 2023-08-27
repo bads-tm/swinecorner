@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "pathto=hede/album_37"
+REM set "pathto=hede/album_37"
 REM set "pathto=game/trail3d"
 REM set "pathto=game/trail2d"
 REM set "pathto=game/swinebeta"
@@ -11,6 +11,7 @@ set "jsonContent=["
 set "firstItem=true"
 
 echo Folder: %pathto%
+pause
 
 for %%i in ("%folderPath%\*.*") do (
     set "filePath=%%~i"
