@@ -1,25 +1,13 @@
 <template>
 
-<a href="https://www.allkeyshop.com/blog/buy-s-w-i-n-e-hd-remaster-cd-key-compare-prices/"><img class="billboard-mob" src="/website/swinehdb.png"></a>
-<a href="https://bads-tm.itch.io/swine-classic-hd"><img class="billboard-mob" src="/website/swinechd.png"></a>
 
 <div class="billboard">
 
-<picture>
-    <img src="/website/swinehdb.png" usemap="#kgsux">
-<map name="kgsux">
-  <area alt="Buy S.W.I.N.E. HD Remaster" title="Buy S.W.I.N.E. HD Remaster" href="https://www.allkeyshop.com/blog/buy-s-w-i-n-e-hd-remaster-cd-key-compare-prices/" coords="312,144,538,194" shape="rect">
-  <area alt="Free download with love" title="" href="https://ddg.gg/?q=swine+hd+remaster+download+free+unlocked" coords="61,110,130,154" shape="rect"> <!--Free download with love-->
-</map>
-</picture>
+  <object data="/website/swinehdb.svg" type="image/svg+xml">
+  </object>
 
-<picture>
-<img src="/website/swinechd.png" usemap="#classic2k1">
-<map name="classic2k1">
-  <area alt="Free download" title="Free download" href="https://bads-tm.itch.io/swine-classic-hd" coords="447,169,674,218" shape="rect">
-  <area alt="" title="*pig noises, wrong nose!*" coords="278,102,19" shape="circle">
-</map>
-</picture>
+<object data="/website/swinechd.svg" type="image/svg+xml">
+  </object>
 
 </div>
 </template>
@@ -27,4 +15,14 @@
 <style scoped>
 /* * {outline: dotted} */
     .billboard img{object-fit: scale-down; max-width: 100%}
+    object {width: 50%;}
+
+    /*ads*/
+.billboard-mob {  display: none;}
+
+/* Media query for screens with width less than 707px */
+@media (max-width: 707px) {
+  /*.billboard {    display: none;  Hide .billboard  } */
+  object {width: 100%;}
+}
 </style>
