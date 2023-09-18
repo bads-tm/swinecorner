@@ -1,5 +1,6 @@
 <template>
 <title>A Stormregion-sztori - S.W.I.N.E. Mods and more</title>
+<ClientOnly>
 <div class="main">
 <p>A Stormregion-sztori (Forrás:<a href="http://csakegypohar.blogspot.hu/2009/03/pc-guru-kapter-van.html#comment-form">http://csakegypohar.blogspot.hu/2009/03/pc-guru-kapter-van.html#comment-form</a>)</p>
 <p>S.W.I.N.E., Panzers, Phase one és Phase two – ki ne emlékezne ezekre a kultikus nevekre, amelyeket annak idején a magyar játékpiac legmeghatározóbb címei közé sorolhattunk. talán nem is volt akkoriban olyan második világháborús játék, amely kis hazánkban és világszerte egyaránt oly sikert aratott volna, mint a Panzers.</p>
@@ -57,4 +58,5 @@ bűn rossz filmjeit.) A gond csak az, hogy a törvény megváltozott, így már 
 <p>A szomorú történet végül a Panzers: Cold War sorsát illetően happy enddel zárul. A régebbi projektvezetőt 2008 nyarán megkereste az a befektető cég, amelyik korábban finanszírozta a Cold War fejlesztését. (Finanszírozta ? He ? Véletlenül nem a 10tacle volt az ? Hiszen ők nem utaltak... - Mr. Water) Mivel ők a jogtulajdonosai a játéknak és ragaszkodtak a megjelenéséhez, ezért megbíztak egy hatfős magyar csapatot a régi Panzers teamből, hogy fejezzék be a hátralévő munkát. Meg is alakult az InnoGlow nevű kis cég, amely az utolsó simításokat végzi el a Cold Waron. (Mese-mese-meskete - Mr. Water)
 A játék végül is az Atari kiadásában fog megjelenni a közeljövőben, idehaza a CD Projekt szállítja majd az utolsó Stormregion játékot a tankos programok szerelmeseinek.</p>
 </div>
+ </ClientOnly>
 </template>
