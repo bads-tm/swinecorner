@@ -35,84 +35,10 @@
 <p>Olyan hangok is vannak, amiket szintén felvettek, mégis kimaradtak, pedig több egységnél is megtalálhatóak (pl. <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/038.mp3">38-Rendicsek!</a>, <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/126.mp3">126-Mi is erre gondoltunk.</a>, <a href="http://web.archive.org/web/20170901202449/http://hede.spaceweb.hu/php-files/images/amikimaradt/607.mp3">607</a>).</p>
 
 <p>Van egy fájl, amiben a beszólások szövege le van írva, itt is lehet néhány érdekességet találni. Néhánynak a szövege megvan, de mp3 formátumban nem került be a játékba (pl. 536-Hmm milyen fincsi illat, mint anyám főztje, hahaha!, 397-Je, alvázmosás!).</p>
-<a id="szoveg-nyit" class="koverkek">A meglévő szövegű, de hiányzó hangú beszólások teljes listája ide kattintva elérhető.</a>
-<div id="szoveg" style="display: yes;background-color: #332121;">
-<p>
-392	Gyerünk keressük meg azokat a rakétákat!
-<br>393	Megtaláltuk az első rakétakilövőt!
-<br>394	Itt is van egy rakéta kilövő!
-<br>395	Jól bírja a gyűrődést ez a régi híd!
-<br>396	Elértük a Lapos folyót.
-<br>397	Ye, alvázmosás!
-<br>398	Ez tényleg alvázmosás!
-<br>399	Ezek az átkozott disznók egy hatalmas ágyút telepítettek a dombra!
-</p>
-
-<p>404	</p>
-
-<p>
-433	Siessünk keressük meg az elnök gépét!
-<br>434	Itt vagyunk az ősi templomnál.
-<br>435	Alig lehet haladni ettől a rengeteg fától!
-<br>436	Milyen fülledt a levegő?!
-<br>437	Elég furcsa egy tisztás.
-<br>438	Megtaláltuk a repülőteret!
-<br>439	Itt az elnöki gép!
-<br>440	Úgy gondolom az egész nyúl nép nevében beszélhetek amikor megköszönöm Önöknek azt, amit a Hazáért tesznek ezekben a nehéz, háborús időkben. Kevesen vannak akik kiállván az igazság mellett azt tettel is bizonyítják.Még egyszer köszönjük, és ne feledjék a  Haza Önökkel. 
-<br>441	Kezdődjék a vadkanvadászat!
-<br>442	Micsoda bűz?!
-<br>443	Csípi a szemem ez a bűz!
-<br>444	Micsoda orrfacsaró egy illat?!
-<br>445	Ettől a szagtól hányingerem van.
-<br>446	Elég elhagyatottnak látszik.
-<br>447	Nagyon csapda íze van!?
-<br>448	Ez csapda!!!
-<br>449	huh ezt megúsztuk!
-</p>
-
-<p>
-461	Gyerünk kapjuk el a disznókat!
-<br>462	Remélem nem szakad be alattunk?!
-<br>463	Elég síkos a talaj!
-<br>464	Itt vagyunk a radarnál!!
-<br>465	Elértük az erőművet.
-<br>466	Most már biztos nem kap energiát a radarállomás.
-</p>
-
-<p>
-517	Na, hol vannak azok a  répazabálók?
-<br>518	Segítség, megtámadtak!!
-<br>519	Meg kell akadályozni hogy a nyulak megsemmisítsék a szállítmányt!
-<br>520	Nem tudjuk már sokáig tartani magunkat!
-<br>521	Na végre hogy megérkeztünk!
-</p>
-
-<p>
-535	Gyerünk kapjuk el ezeket a pofátlan szőrcsimbókokat!
-<br>536	Hmm milyen fincsi illat, mint anyám főztje, hahaha!
-<br>537	Megtaláltuk a raktárt!
-<br>538	Hmm, ez a raktár  tök üres volt ?!
-<br>539	Cool, tűzijáték!
-</p>
-
-<p>
-546	Alig lehet haladni ettől a rengeteg fától!
-<br>547	Útálom a zöld színt!
-<br>548	Milyen fülledt a levegő?!
-<br>549	Elértük a dombot.
-<br>550	Szerezzük meg a dombot!
-</p>
-
-<p>569	 Szavak ?</p>
-
-<p>
-573	Gyerünk túrjuk fel az erdőt!
-<br>574	Elértük a Lapos folyót.
-<br>575	Elég egy ócska híd ez.
-<br>576	Átkelünk a hídon!
-<br>577	Elértük a gázlót.
-</p>
-</div>
+<details>
+  <summary><a id="szoveg-nyit" class="koverkek">A meglévő szövegű, de hiányzó hangú beszólások teljes listája ide kattintva elérhető.</a></summary>
+<div id="szoveg" style="display:yes;background-color:#332121;"><p> 392 Gyerünk keressük meg azokat a rakétákat! <br>393 Megtaláltuk az első rakétakilövőt! <br>394 Itt is van egy rakéta kilövő! <br>395 Jól bírja a gyűrődést ez a régi híd! <br>396 Elértük a Lapos folyót. <br>397 Ye, alvázmosás! <br>398 Ez tényleg alvázmosás! <br>399 Ezek az átkozott disznók egy hatalmas ágyút telepítettek a dombra! </p><p>404 </p><p> 433 Siessünk keressük meg az elnök gépét! <br>434 Itt vagyunk az ősi templomnál. <br>435 Alig lehet haladni ettől a rengeteg fától! <br>436 Milyen fülledt a levegő?! <br>437 Elég furcsa egy tisztás. <br>438 Megtaláltuk a repülőteret! <br>439 Itt az elnöki gép! <br>440 Úgy gondolom az egész nyúl nép nevében beszélhetek amikor megköszönöm Önöknek azt, amit a Hazáért tesznek ezekben a nehéz, háborús időkben. Kevesen vannak akik kiállván az igazság mellett azt tettel is bizonyítják.Még egyszer köszönjük, és ne feledjék a Haza Önökkel. <br>441 Kezdődjék a vadkanvadászat! <br>442 Micsoda bűz?! <br>443 Csípi a szemem ez a bűz! <br>444 Micsoda orrfacsaró egy illat?! <br>445 Ettől a szagtól hányingerem van. <br>446 Elég elhagyatottnak látszik. <br>447 Nagyon csapda íze van!? <br>448 Ez csapda!!! <br>449 huh ezt megúsztuk! </p><p> 461 Gyerünk kapjuk el a disznókat! <br>462 Remélem nem szakad be alattunk?! <br>463 Elég síkos a talaj! <br>464 Itt vagyunk a radarnál!! <br>465 Elértük az erőművet. <br>466 Most már biztos nem kap energiát a radarállomás. </p><p> 517 Na, hol vannak azok a répazabálók? <br>518 Segítség, megtámadtak!! <br>519 Meg kell akadályozni hogy a nyulak megsemmisítsék a szállítmányt! <br>520 Nem tudjuk már sokáig tartani magunkat! <br>521 Na végre hogy megérkeztünk! </p><p> 535 Gyerünk kapjuk el ezeket a pofátlan szőrcsimbókokat! <br>536 Hmm milyen fincsi illat, mint anyám főztje, hahaha! <br>537 Megtaláltuk a raktárt! <br>538 Hmm, ez a raktár tök üres volt ?! <br>539 Cool, tűzijáték! </p><p> 546 Alig lehet haladni ettől a rengeteg fától! <br>547 Útálom a zöld színt! <br>548 Milyen fülledt a levegő?! <br>549 Elértük a dombot. <br>550 Szerezzük meg a dombot! </p><p>569 Szavak ?</p><p> 573 Gyerünk túrjuk fel az erdőt! <br>574 Elértük a Lapos folyót. <br>575 Elég egy ócska híd ez. <br>576 Átkelünk a hídon! <br>577 Elértük a gázlót. </p></div>
+</details>
 
 <p>Nemcsak vízi és légi egységek, hanem egy „hős” is kimaradt, a nyúl elnök. A történetből kikerült, így a játékon belül nem jelenik meg, és a hangjait sem vették fel, viszont a menüben oldalt néha felbukkan, és a reportanim-ját is megcsinálták (szóval beültethető vezetőnek valamilyen egységbe, úgy mint a többi hős). Ezen kívül hozzá kapcsolódó beszólások szövegét is találtam:
 <br>439-Itt az elnöki gép!
