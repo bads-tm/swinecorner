@@ -7,6 +7,7 @@
     <NuxtLink to="/gallery/chars">Characters Gallery</NuxtLink>
     <NuxtLink to="/links">Other fan sites</NuxtLink>
     <NuxtLink to="/leftout">What was left out</NuxtLink>
+    <NuxtLink to="/cheats">Cheats</NuxtLink>
     <NuxtLink to="/storysr">The Stormregion story</NuxtLink>
     </div>
 </template>
