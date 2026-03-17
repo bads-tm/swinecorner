@@ -3,7 +3,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
 
-    <Billboard/>
+    <div class="deprecation-banner">
+        This site has moved! Visit <a href="https://swine.fans">swine.fans</a> for maps, mods, tools and more.
+    </div>
+
+    <!--<Billboard/>-->
     <div style="background-color: #D93526;background-image: linear-gradient(#D93526, #7E2017);padding:15px;text-align:center;">
        
 
@@ -34,6 +38,8 @@ const currentYear = ref(new Date().getFullYear());
     @media only screen and (max-width:620px){
     .menu,.main,.right{width:100%;}
     }
+    .deprecation-banner{background-color:#e8a317;color:#000;text-align:center;padding:12px;font-size:16px;font-weight:bold;}
+    .deprecation-banner a{color:#000;text-decoration:underline;}
     ::selection{background:#7E2017;}
     ::-moz-selection{background:#7E2017;}
     ::-webkit-scrollbar{width:15px;}
